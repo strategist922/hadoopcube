@@ -1,4 +1,0 @@
-hadoopcube
-==========
-
-Hadoop Cube
